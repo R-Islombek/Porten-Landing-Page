@@ -299,3 +299,18 @@
         letter-spacing: 0;
     }
 }
+/* ---------------------main-------------------- */
+
+.main__list{
+    display: flex;
+}
+.main__item{
+    width: 260px;
+    height: 370px;
+    margin: 10px;
+    background: #191B1C;
+}
+.main__img{
+    width: 150px;
+    height: 150px;
+}
